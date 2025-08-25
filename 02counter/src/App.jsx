@@ -5,11 +5,16 @@ import './App.css'
 
 function App() {
 
-    let [count, setCount] = useState(0);  
+    let [count, setCount] = useState(5);  
+
     const addvalue = () => {
         count = count + 1;
         setCount(count);
 
+    }
+    const subvalue = () => {
+        count = count - 1;
+        setCount(count);
     }
 
   return (
@@ -20,7 +25,7 @@ function App() {
         onClick={addvalue}
         >Increment</button>
         <br />
-        <button>Decrement</button>
+        <button onClick={subvalue}>Decrement</button>
     </> 
   )
 }
