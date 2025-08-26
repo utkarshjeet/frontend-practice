@@ -14,7 +14,7 @@ A simple app where you can change the background color with preset options, gene
 - Toggle **Light / Dark Mode** 🌙☀️.
 
 ## 📸 Preview
-![Preview](https://raw.githubusercontent.com/utkarshjeet/your-repo-name/main/preview.png)
+![Preview]([https://raw.githubusercontent.com/utkarshjeet/your-repo-name/main/preview.png](https://github.com/utkarshjeet/frontend-practice/blob/main/04bgcolor/image.png))
 
 ## 🛠️ Tech Stack
 - **React.js**
